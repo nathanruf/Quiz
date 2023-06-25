@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Define a cor de preenchimento -->
+    <corners android:radius="10dp" /> <!-- Define o raio da borda -->
+    <stroke
+        android:color="#AEAEAE"
+        android:width="2dp" />
+</shape>
